@@ -1,4 +1,4 @@
-name: Build Plugins
+name: Build Plugins 
 
 on: [push, pull_request]
 
